@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659423578 source:c:\users\admin\desktop\c language\passingdata\call-by-value.c
+	<stdio.h>
+
+1659424893 source:c:\users\admin\desktop\c language\passingdata\call-by-reference.c
+	<stdio.h>
+	<stdlib.h>
+
+1659423438 source:c:\users\admin\desktop\c language\passingdata\my-call-value.c
+	<stdio.h>
+	<stdlib.h>
+
+1659425095 source:c:\users\admin\desktop\c language\passingdata\my-call-by-reference.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658708946 source:c:\users\admin\desktop\c language\giraffe_return_statement\returnstatement.c
+	<stdio.h>
+	<stdlib.h>
+
+1658708970 source:c:\users\admin\desktop\c language\giraffe_return_statement\returnarea.c
+	<stdio.h>
+	<stdlib.h>
+

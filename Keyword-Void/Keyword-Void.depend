@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659410263 source:c:\users\admin\desktop\c language\keyword-void\void.c
+	<stdio.h>
+	<stdlib.h>
+
